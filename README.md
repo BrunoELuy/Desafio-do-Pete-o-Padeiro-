@@ -15,3 +15,6 @@ Código:
 5- Usando alguns If e Else, eu analisei as situações, como a falta de ingredientes, ou quantidades faltante, etc..
 
 6- E por fim, caso não tivesse nenhum problema e não tenha retornado 0 em nenhum momento, eu usei a função min() para retornar o menor valor da lista de bolos, o que seria o valor comum da quantia que poderia ser feita para todos os ingredientes.
+
+
+Observação: O desáfio falava "Você consegue retornar quantos bolos(inteiros) ele pode fazer?", No entanto, notei que eu deveria mexer apenas na função do código("// Desenvolver o código nesta function"), e fazendo isto, fiquei preso às respostas booleanas, graças ao "===" em cada um dos var_dump().
